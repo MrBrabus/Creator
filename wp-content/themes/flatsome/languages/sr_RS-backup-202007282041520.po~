@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-07-06T11:38:21+00:00\n"
-"PO-Revision-Date: 2020-07-13 21:12+0000\n"
+"PO-Revision-Date: 2020-07-28 20:41+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: flatsome\n"
 "Language: sr_RS\n"
@@ -403,7 +403,7 @@ msgstr ""
 #: inc/structure/structure-posts.php:235
 msgctxt "post date"
 msgid "Posted on %s"
-msgstr ""
+msgstr "Objavljeno %s"
 
 #: inc/structure/structure-posts.php:240
 msgctxt "post author"
@@ -712,7 +712,7 @@ msgstr ""
 #: template-parts/posts/content.php:6 template-parts/posts/content.php:10
 #: template-parts/posts/featured-posts.php:23
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Pročitaj više <span class=\"meta-nav\">&rarr;</span>"
 
 #: template-parts/posts/loop/post-simple.php:23
 msgid "%1$s Comment"
@@ -782,7 +782,7 @@ msgstr ""
 #: template-parts/posts/partials/entry-footer-single.php:24
 #: template-parts/posts/partials/entry-footer.php:24
 msgid "Leave a comment"
-msgstr ""
+msgstr "Napišite komentar"
 
 #: woocommerce/checkout/header-small.php:22 woocommerce/checkout/header.php:22
 msgid "Shopping Cart"
@@ -794,7 +794,7 @@ msgstr "Detalji porudžbine"
 
 #: woocommerce/checkout/header-small.php:32 woocommerce/checkout/header.php:32
 msgid "Order Complete"
-msgstr ""
+msgstr "Porudžbina kompletirana"
 
 #: woocommerce/checkout/social-login.php:8 woocommerce/myaccount/header.php:64
 msgid "Login with <strong>Facebook</strong>"
