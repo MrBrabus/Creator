@@ -1,0 +1,44 @@
+2020-07-24T19:49:38+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php:50
+Stack trace:
+#0 C:\xampp\htdocs\Creator\wp-settings.php(508): include()
+#1 C:\xampp\htdocs\Creator\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Creator\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Creator\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Creator\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown u C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php u redu 50
+
+2020-07-24T19:50:16+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php:50
+Stack trace:
+#0 C:\xampp\htdocs\Creator\wp-settings.php(508): include()
+#1 C:\xampp\htdocs\Creator\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Creator\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Creator\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Creator\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown u C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php u redu 50
+
+2020-07-24T19:51:13+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php:50
+Stack trace:
+#0 C:\xampp\htdocs\Creator\wp-settings.php(508): include()
+#1 C:\xampp\htdocs\Creator\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Creator\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Creator\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Creator\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown u C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php u redu 50
+
+2020-07-24T19:51:39+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php:65
+Stack trace:
+#0 C:\xampp\htdocs\Creator\wp-settings.php(508): include()
+#1 C:\xampp\htdocs\Creator\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Creator\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Creator\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Creator\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown u C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php u redu 65
+
+2020-07-24T19:53:49+00:00 CRITICAL Cannot redeclare wdm_add_order_meta_box_actions() (previously declared in C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php:53) u C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php u redu 62
+
+2020-07-24T19:53:49+00:00 CRITICAL Cannot redeclare wdm_add_order_meta_box_actions() (previously declared in C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php:53) u C:\xampp\htdocs\Creator\wp-content\themes\flatsome\functions.php u redu 62
+

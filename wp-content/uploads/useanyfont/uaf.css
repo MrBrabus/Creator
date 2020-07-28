@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'raleway-black';
+					src: url('/wp-content/uploads/useanyfont/3065Raleway-Black.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/3065Raleway-Black.woff') format('woff');
+					font-display: auto;
+				}
+
+				.raleway-black{font-family: 'raleway-black' !important;}
+
+		
