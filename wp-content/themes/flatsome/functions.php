@@ -45,5 +45,11 @@ function change_existing_currency_symbol( $currency_symbol, $currency ) {
      return $currency_symbol;
 }
 
+add_filter( 'woocommerce_product_tabs', 'wcs_woo_remove_reviews_tab', 98 );
+    function wcs_woo_remove_reviews_tab($tabs) {
+    unset($tabs['reviews']);
+    return $tabs;
+}
+
 // Ovo je deo koda gde je dodat status `Poslato`
 

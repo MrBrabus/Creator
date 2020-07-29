@@ -456,7 +456,7 @@ return array(
 	'browsercache.other.etag' => true,
 	'browsercache.other.w3tc' => true,
 	'browsercache.other.replace' => true,
-	'browsercache.timestamp' => '1596061363',
+	'browsercache.timestamp' => '1596064108',
 	'browsercache.replace.exceptions' => array(
 	),
 	'browsercache.security.session.cookie_httponly' => false,
