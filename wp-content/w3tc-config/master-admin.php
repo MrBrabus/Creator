@@ -29,5 +29,5 @@ return array(
 	'notes.hide_extensions' => array(
 	),
 	'evaluation.reminder' => 0,
-	'minify.version' => 138,
+	'minify.version' => 152,
 );

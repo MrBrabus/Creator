@@ -1,0 +1,1 @@
+Ú"_<?php exit; ?>a:1:{s:7:"content";s:233:"a:2:{s:44:"brands-for-woocommerce/woocommerce-brand.php";a:2:{i:0;s:22:"BeRocket_product_brand";i:1;s:12:"deactivation";}s:48:"woocommerce-ajax-filters/woocommerce-filters.php";a:2:{i:0;s:13:"BeRocket_AAPF";i:1;s:12:"deactivation";}}";}
