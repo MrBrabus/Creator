@@ -1,1 +1,1 @@
-9H#_<?php exit; ?>a:1:{s:7:"content";i:1;}
+?K#_<?php exit; ?>a:1:{s:7:"content";i:1;}
