@@ -9,6 +9,8 @@
  */
 
 defined( 'ABSPATH' ) || exit;
+// Include calculus hook functions
+include 'order-calculus-hook.php';
 
 /**
  * Prevent any user who cannot 'edit_posts' (subscribers, customers etc) from seeing the admin bar.
@@ -923,3 +925,18 @@ function wc_translate_user_roles( $translation, $text, $context, $domain ) {
 	return $translation;
 }
 add_filter( 'gettext_with_context', 'wc_translate_user_roles', 10, 4 );
+
+function mysite_woocommerce_order_status_completed( $order_id ) {
+	$item_sku = array();
+	$order = wc_get_order( $order_id ); 
+  
+	foreach ($order->get_items() as $item) {
+	  $product = wc_get_product($item->get_product_id());
+	  $item_sku[] = $product->get_sku();
+	}
+	print($item_sku);
+	updateWithSKUArray($item_sku);
+	// Call custom function
+	// now do something with the sku array 
+}
+add_action( 'woocommerce_order_status_completed', 'mysite_woocommerce_order_status_completed', 10, 1 );
